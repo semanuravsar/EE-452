@@ -1,7 +1,7 @@
 # EE-452 Network Machine Learning Course Project  
 **Graph-based EEG Seizure Detection: A Comparative Study**
 
-This repository contains the code, experiments, and report for our EE-452 course project, which investigates **graph neural network (GNN) approaches** for EEG seizure classification. We compare multiple GNN architectures and graph construction methods to model multi-channel EEG signals as time-dependent graphs.
+This repository contains the code, experiments, and report for our EE-452 course project, which investigates **graph neural networks (GNNs)** for EEG seizure detection, representing electrodes as graph nodes and comparing architectures, graph construction, and preprocessing methods to capture complex temporal–spatial patterns.
 
 ## Repository Structure
 - **report.pdf** – Final project report  
